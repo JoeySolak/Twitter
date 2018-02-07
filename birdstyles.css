@@ -22,6 +22,6 @@ article.tweet{
     border-radius:50px;
     padding:10px;
 }
-h3{
-    margin:0px 100px;
+div.left{
+  float: left;
 }
