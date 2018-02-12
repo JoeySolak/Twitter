@@ -25,3 +25,9 @@ article.tweet{
 div.left{
   float: left;
 }
+#content{
+    height:400px;
+    width:600px;
+    padding-left: 30px;
+    padding-right:20px;
+}
